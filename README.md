@@ -1,5 +1,5 @@
 # React + Vite
-# Follow these steps to get started with the react-vite-ui template:
+# Follow these steps to get started:
   1) Clone the repository:- git clone https://github.com/SarveshMungurwadi/hackerNews </br>
   2) Navigate to the project directory:- cd hackerNews </br>
   3) Install the dependencies:- npm install </br>
