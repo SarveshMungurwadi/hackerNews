@@ -1,5 +1,9 @@
 # React + Vite
-# To run the project :- npm run dev
+# Follow these steps to get started with the react-vite-ui template:
+ -1)Clone the repository: git clone https://github.com/SarveshMungurwadi/hackerNews
+ -2)Navigate to the project directory: cd hackerNews
+ -3)Install the dependencies: npm install
+ -4)Start the development server: npm run dev
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
